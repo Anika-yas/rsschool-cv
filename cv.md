@@ -16,9 +16,9 @@ __Education__
 + Master’s School of the National Academy of Sciences of Belarus (specialization: Machine Building)
 + Course " Computer Basics"
 + Seminar Simufact Additive 3.0 - computer simulation of additive technologies
-_Self-study on resources:_
-[Code Basics] (https://ru.code-basics.com/) 
-[ htmlacademy] (https://htmlacademy.ru/)
+_Self-study on resources:_  
+[Code Basics](https://ru.code-basics.com/)   
+[ htmlacademy](https://htmlacademy.ru/)  
 
 __English level__
 A2
