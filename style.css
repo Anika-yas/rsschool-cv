@@ -50,7 +50,8 @@ h2 {
  
 .about_me,
 .skills, 
-.education, 
+.education,
+.code_example, 
 .english_level {
     margin: 10px;
     border-bottom: solid #000 1px;
