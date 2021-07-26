@@ -6,7 +6,7 @@ body {
 }
 
 .profile {
-    background-image: url(/background1.png);
+    background-image: url(background1.png);
 }
 
 .profile_left {
@@ -41,7 +41,7 @@ body {
 
 main {
     margin: 10px;
-    background-image: url(/background3.png);
+    background-image: url(background3.png);
 }
 
 h2 {
@@ -59,7 +59,7 @@ h2 {
 footer {
     width: 100%; 
     margin: 0 auto; 
-    background: url(/background1.png);
+    background: url(background1.png);
     text-align: center;
 }
 
