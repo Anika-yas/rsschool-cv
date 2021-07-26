@@ -1,7 +1,7 @@
-**Hanna Yasianovich**
-Email: _anutascherbo@gmail.com_
-Discord: _Anika#1021_
-GitHub: _github.com/Anika-yas_
+**Hanna Yasianovich**  
+Email: _anutascherbo@gmail.com_  
+Discord: _Anika#1021_  
+GitHub: _github.com/Anika-yas_ 
 
 I have no experience in IT. My main goal is to get trained and get a job offer as a Front-end developer. I am planning to become a highly qualified professional. My strengths are hard work, the ability to find the information you need, the ability to make important decisions and be responsible for them.
 
